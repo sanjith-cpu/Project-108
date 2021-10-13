@@ -1,0 +1,34 @@
+body{
+    font-family: 'Pacifico', cursive;
+    background:red;
+}
+
+.header_div {
+    background:cyan;
+    color: purple;
+}
+.header_div p{
+font-family: 'Times New Roman', Times, serif;
+color: maroon;
+letter-spacing: 2px;
+font-size: 12px;
+font-weight: bold;
+}
+.main_div button{
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+margin-top: 30px;
+width: 130px;
+font-weight: bolder;
+letter-spacing: 3px;
+}
+.copy_right_footer {
+    position: fixed;
+    color: mintcream;
+    bottom: 0;
+    width: 100%;
+    font-size: 10px;
+    background-color: orange;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px grey;
+}
